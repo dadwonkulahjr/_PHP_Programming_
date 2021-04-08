@@ -1,0 +1,59 @@
+<Employees>
+
+    <employee>
+            <id>1</id>
+            <name>Tom</name>
+            <gender>Male</gender>
+            <salary>50000</salary>
+            <details>
+                <address>19th street sinkor</address>
+                <datehire>January 4th 2012</datehire>
+            </details>
+            <jobtitle>
+                    <occupation>Developer</occupation>
+            </jobtitle>
+    </employee>
+
+     <employee>
+            <id>2</id>
+            <name>Rose</name>
+            <gender>Female</gender>
+            <salary>25000</salary>
+             <details>
+                <address>Bardnesville Estate</address>
+                <datehire>Decemeber 19th 2000</datehire>
+            </details>
+            <jobtitle>
+                    <occupation>Finance Officer</occupation>
+            </jobtitle>
+    </employee>
+
+     <employee>
+            <id>3</id>
+            <name>Jerry</name>
+            <gender>Male</gender>
+            <salary>10000</salary>
+             <details>
+                <address>Stephen Tolbert Estate</address>
+                <datehire>March 2nd 2000</datehire>
+            </details>
+            <jobtitle>
+                    <occupation>Web Developer</occupation>
+            </jobtitle>
+    </employee>
+
+     <employee>
+            <id>4</id>
+            <name>Jessica</name>
+            <gender>Female</gender>
+            <salary>160000</salary>
+             <details>
+                <address>Mamba Point</address>
+                <datehire>May 2nd 2019</datehire>
+            </details>
+            <jobtitle>
+                    <occupation>HR</occupation>
+            </jobtitle>
+    </employee>
+
+</Employees>
