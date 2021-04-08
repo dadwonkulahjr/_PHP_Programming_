@@ -16,7 +16,7 @@
     }
    
     echo 'Connected' .'<br/>';
-    $sql_query = 'Select username, password, gender From users Where gender = "males"';
+    $sql_query = 'Select username, password, gender From users Where gender = "males"'; 
 
     $result_set = $mysqli->query($sql_query);
 
